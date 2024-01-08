@@ -1,0 +1,60 @@
+{
+  "packages":
+  [
+    {
+      "name": "NeuroState",
+      "maintainer": "Qneuro",
+      "websiteURL": "https://qneuro.com",
+      "email" : "info@qneuro.com",
+      "platforms":
+      [
+        {
+          "name": "NeuroState",
+          "architecture": "sam",
+          "version": "2.0.0",
+          "category": "Private",
+          "url": "https://github.com/sathya-qneuro/NeuroState_Firmware/raw/main/CATS_Boards_1.6.20.zip",
+          "archiveFileName": "CATS_Boards_1.6.20.zip",
+          "checksum": "SHA-256:2e815849e8f27043e02b6e18bd0baa737d65ac7c51d2e28d1d4e9bfdf51a8c3f",
+          "size": "43453934",
+          "boards": [
+            {
+              "name": "NeuroState"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
