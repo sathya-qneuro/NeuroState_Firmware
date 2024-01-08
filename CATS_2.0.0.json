@@ -13,10 +13,10 @@
           "architecture": "sam",
           "version": "2.0.0",
           "category": "Private",
-          "url": "https://github.com/sathya-qneuro/NeuroState_Firmware/raw/main/CATS_Boards_1.6.20.zip",
-          "archiveFileName": "CATS_Boards_1.6.20.zip",
-          "checksum": "SHA-256:2e815849e8f27043e02b6e18bd0baa737d65ac7c51d2e28d1d4e9bfdf51a8c3f",
-          "size": "43453934",
+          "url": "https://github.com/sathya-qneuro/NeuroState_Firmware/raw/main/CATS_2.0.0.zip",
+          "archiveFileName": "CATS_2.0.0.zip",
+          "checksum": "SHA-256:94b07fb25eb5bc846f29e693e76cd38ce36aae66ff90b8c4e80416b6cf35ba1e",
+          "size": "43453202",
           "boards": [
             {
               "name": "NeuroState"
