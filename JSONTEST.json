@@ -15,8 +15,8 @@
           "category": "Private",
           "url": "https://github.com/sathya-qneuro/NeuroState_Firmware/blob/main/CATS_Boards_1.6.20.zip",
           "archiveFileName": "CATS_Boards_1.6.20.zip",
-          "checksum": "SHA-256:d33aa56c8b32e3da083d42bd38f257ad0d294ded9fc7c60a9104e0cace1365ce",
-          "size": "43530968",
+          "checksum": "SHA-256:2e815849e8f27043e02b6e18bd0baa737d65ac7c51d2e28d1d4e9bfdf51a8c3f",
+          "size": "43453934",
           "boards": [
             {
               "name": "NeuroState"
