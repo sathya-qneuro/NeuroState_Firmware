@@ -10,7 +10,7 @@
       [
         {
           "name": "NeuroState",
-          "architecture": "samd",
+          "architecture": "sam",
           "version": "1.6.20",
           "category": "Private",
           "url": "https://github.com/sathya-qneuro/NeuroState_Firmware/raw/main/CATS_Boards_1.6.20.zip",
